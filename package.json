@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-cicd-lab",
+  "version": "1.0.0",
+  "description": "Learn from the scracth ## Learning GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afsalsubair3111/github-actions-cicd-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/afsalsubair3111/github-actions-cicd-lab/issues"
+  },
+  "homepage": "https://github.com/afsalsubair3111/github-actions-cicd-lab#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
