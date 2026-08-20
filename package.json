@@ -4,7 +4,8 @@
   "description": "Learn from the scracth ## Learning GitHub Actions",
   "main": "index.js",
   "scripts": {
-  "test": "jest"
+  "test": "jest",
+  "build": "mkdir -p dist && cp src/app.js dist/app.js"
 },
   "repository": {
     "type": "git",
